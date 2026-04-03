@@ -175,6 +175,13 @@ ESP32-CAM → WiFi HTTP Server → Python Client → OpenCV → YOLO → Object 
 
 ---
 <img width="596" height="444" alt="person_detection3" src="https://github.com/user-attachments/assets/723edfd1-0c26-4528-8391-fde07f57fc7f" />
+<img width="845" height="451" alt="Screenshot 2024-12-10 114341" src="https://github.com/user-attachments/assets/81436f62-832a-47ea-b354-96e055ae0252" />
+<img width="1193" height="951" alt="Screenshot 2024-12-10 122314" src="https://github.com/user-attachments/assets/eabf9095-c7a0-4e61-abf1-9795a3434337" />
+<img width="868" height="866" alt="Screenshot 2024-12-10 114541" src="https://github.com/user-attachments/assets/f64b9b54-22dc-4e0c-87c4-d203f50d47fb" />
+<img width="1052" height="923" alt="Screenshot 2024-12-10 123515" src="https://github.com/user-attachments/assets/87445ba9-adef-49b3-a532-da44ea3fa770" />
+
+
+
 
 
 
