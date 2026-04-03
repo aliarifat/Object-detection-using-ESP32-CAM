@@ -105,7 +105,7 @@ ESP32-CAM → WiFi HTTP Server → Python Client → OpenCV → YOLO → Object 
 - `esp32_cam_basic.ino` → ESP32-CAM firmware  
 - `object_detection.py` → Python detection script  
 - `YOLO/` → Folder containing model files  
-- `yolov3.weights`  
+- `yolov3.weights`  download from here: https://www.kaggle.com/datasets/shivam316/yolov3-weights
 - `yolov3.cfg`  
 - `coco.names`  
 
@@ -145,12 +145,6 @@ ESP32-CAM → WiFi HTTP Server → Python Client → OpenCV → YOLO → Object 
 ## 📸 Results
 
 ### Sample Detections
-
-![Person](images/person.png)
-![Remote](images/remote.png)
-![Books](images/books.png)
-![Laptop](images/laptop.png)
-![Phone](images/phone.png)
 
 ---
 
